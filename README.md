@@ -1,5 +1,6 @@
 # C++-_AssemblyLine  
-This is a simulation of an assembly line with any number of stations. A line with 3 Stations is illustrated in the figure below.
+This is a simulation of an assembly line with any number of stations. A line with 3 Stations is illustrated in the figure below.  
+
 ![assemblyline](https://user-images.githubusercontent.com/71744660/168408882-79024ce0-5a8a-4f19-b0cf-58053a03251a.jpg)
 
 
